@@ -1,5 +1,5 @@
-# gotLost
-A lost or found website for college.
+# FinditBack
+A lost or found website for Arab Academy for Science and Technology.
 <div align="center">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/Volley-Freak/gotLost)&nbsp;
